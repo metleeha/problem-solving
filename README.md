@@ -1,9 +1,9 @@
 # problem-solving
 🚀 Algorithm | Problem Solving
 
-## [HackerRank](./hackerrank)
+## HackerRank
 
 
 
-## [LeetCode](./leetcode)
+## LeetCode
 
