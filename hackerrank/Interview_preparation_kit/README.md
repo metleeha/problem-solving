@@ -13,3 +13,4 @@ Interview Preparation Kit - Dictionaries and Hashmaps | [Ransom Note](https://ww
 Interview Preparation Kit - Dictionaries and Hashmaps | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | Easy | 25.0 | [Python](./Dictionaries_and_Hashmaps/two-strings.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | Medium | 50.0 | [Python](./Dictionaries_and_Hashmaps/sherlock-and-anagrams.py)
 Interview Preparation Kit - Dictionaries and Hashmaps | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) | Medium | 35.0 | [Python](./Dictionaries_and_Hashmaps/count-triplets.py)
+Interview Preparation Kit - Dictionaries and Hashmaps | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem) | Medium | 40.0 | [Python](./Dictionaries_and_Hashmaps/frequency-queries.py)
