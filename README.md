@@ -1,6 +1,6 @@
 # problem-solving
 🚀 Algorithm | Problem Solving
 
-- [HackerRank](./tree/main/hackerrank/Interview_preparation_kit)
-- [LeetCode](./tree/main/leetcode)
+- [HackerRank](../hackerrank/Interview_preparation)
+- [LeetCode](../leetcode)
 
