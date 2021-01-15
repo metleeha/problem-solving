@@ -1,9 +1,6 @@
 # problem-solving
 🚀 Algorithm | Problem Solving
 
-## HackerRank
-
-
-
-## LeetCode
+- [HackerRank](./hackerrank/README.md)
+- [LeetCode](./leecode/README.md)
 
