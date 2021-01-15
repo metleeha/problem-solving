@@ -1,5 +1,5 @@
 # problem-solving
 🚀 Algorithm | Problem Solving
 
-- [HackerRank](./hackerrank/Interview_preparation_kit/README.md)
+- [HackerRank](./hackerrank/README.md)
 - [LeetCode](./leetcode/README.md)
