@@ -1,6 +1,5 @@
 # problem-solving
 🚀 Algorithm | Problem Solving
 
-- [HackerRank](../hackerrank/Interview_preparation)
-- [LeetCode](../leetcode)
-
+- [HackerRank](problem-solving/blob/master/hackerrank/README.md)
+- [LeetCode](problem-solving/blob/master/leetcode/README.md)
