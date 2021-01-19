@@ -11,7 +11,7 @@ def helper(self, root, res):
         self.helper(root.right, res)
  
 # iteratively       
-def inorderTraversal(self, root):
+def inorderTraversal(self, root: TreeNode) -> List[int]:
     res, stack = [], []
     while True:
         while root:
